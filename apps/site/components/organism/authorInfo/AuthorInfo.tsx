@@ -14,16 +14,11 @@ const AuthorInfo = () => {
       <div className="container mx-auto py-12 sm:mt-8 bg-base-200 px-5 sm:px-0 rounded-xl font-work">
          <div className="flex items-center justify-center gap-4">
             <div className="avatar">
-               <div className="w-16 rounded-full">
-                  <img
-                     src="https://placehold.co/100x100"
-                     width={64}
-                     height={64}
-                     alt="avatar_image"
-                  />
+               <div className="ring-primary ring-offset-base-100 w-24 rounded-full ring-2 ring-offset-2">
+                  <img src="https://img.daisyui.com/images/profile/demo/spiderperson@192.webp" />
                </div>
             </div>
-            <div>
+            <div className="text-center">
                <h5 className="text-base-content text-base sm:text-xl font-medium">
                   Jonathan Doe
                </h5>

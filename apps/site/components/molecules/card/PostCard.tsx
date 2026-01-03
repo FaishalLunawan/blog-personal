@@ -30,8 +30,7 @@ const PostCard = () => {
                   href="/single-post"
                   className="text-base-content hover:text-primary transition-all duration-300 ease-in-out font-semibold text-lg md:text-xl lg:text-2xl mt-2"
                >
-                  The Impact of Technology on the Workplace: How Technology is
-                  Changing
+                 wtf
                </Link>
             </h3>
             <div className="mt-5 flex items-center gap-5 text-base-content/60 ">
@@ -43,7 +42,7 @@ const PostCard = () => {
                   </div>
                   <h5>
                      <Link
-                        href="/"
+                        href="/author"
                         className="text-base font-medium hover:text-primary transition hover:duration-300"
                      >
                         Jason Francisco

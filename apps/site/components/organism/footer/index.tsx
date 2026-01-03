@@ -99,7 +99,7 @@ const Footer = () => {
                   </Link>
                   <div>
                      <h4 className="text-xl text-base-content font-sans">
-                        Meta<strong>Blog</strong>
+                        Faishal<strong>Lunawan</strong>
                      </h4>
                      <p className="mt-0.5 text-base-content/70 text-base">
                         © JS Template 2023. All Rights Reserved.
